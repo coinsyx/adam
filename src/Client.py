@@ -8,8 +8,8 @@ from OkCoin.OkcoinFutureAPI import OKCoinFuture
 
 
 #初始化apikey，secretkey,url
-apikey = '2587ec5f-61a7-47f8-ae08-8449372b862c'
-secretkey = '5E7073240E7A9BDFD326E15C4F55A83E'
+apikey = ''
+secretkey = ''
 okcoinRESTURL = 'www.okcoin.cn'   #请求注意：国内账号需要 修改为 www.okcoin.cn  
 
 #现货API
